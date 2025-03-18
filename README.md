@@ -1,24 +1,19 @@
-# 简介
+## 简介
 + 我觉得这个世界上没有什么毫无道理的横空出世。
 + 如果没有大量的积累，大量的思考，是不会把事情做好的。
 + 这世界上有太多的能人，你以为的极限，也许只是别人的起点。
 + 生命不息, 学习不止, 记录增添一些的文档, 希望能帮助您解决问题
 
-**   微信** `lwm-wx` 
-
-![](https://cdn.nlark.com/yuque/0/2022/png/780867/1668328002413-b44f6f41-47e6-4b87-b596-5d729d21bd33.png)
-
-**QQ** `1713829947`
-
-![](https://cdn.nlark.com/yuque/0/2022/png/780867/1668328111146-93c0ddec-440f-4a63-a467-84eaa74fc5e1.png)
-
+## 联系方式
+- 微信: `lwm-wx` 
+- QQ:  `1713829947`
 ---
 
-# 社交主页
+## 社交主页
 + `语雀文档` [https://yuque.com/lwmacct](https://yuque.com/lwmacct)
 + `GitHub` [https://github.com/lwmacct](https://github.com/lwmacct)
 
-# 操作系统
+## 操作系统
 + `Linux 系统命令` [https://www.yuque.com/lwmacct/linux](https://www.yuque.com/lwmacct/linux)
 + `Linux (ubuntu)` [https://www.yuque.com/lwmacct/ubuntu](https://www.yuque.com/lwmacct/ubuntu)
 + `Linux (centos)` [https://www.yuque.com/lwmacct/centos](https://www.yuque.com/lwmacct/centos)
@@ -29,7 +24,7 @@
 
 ---
 
-# Linux 体系
+## Linux 体系
 + `Linux (shell)` [https://www.yuque.com/lwmacct/shell](https://www.yuque.com/lwmacct/shell)
 + `Linux (grub)` [https://www.yuque.com/lwmacct/grub](https://www.yuque.com/lwmacct/grub)
 + `Linux (proc)` [https://www.yuque.com/lwmacct/proc](https://www.yuque.com/lwmacct/proc)
@@ -41,7 +36,7 @@
 
 ---
 
-# 网络知识
+## 网络知识
 + `网络基础 (network)` [https://www.yuque.com/lwmacct/network](https://www.yuque.com/lwmacct/network)
 + `长城防火墙 (gfw)` [https://www.yuque.com/lwmacct/gfw](https://www.yuque.com/lwmacct/gfw)
 + `交换机 (switch)` [https://www.yuque.com/lwmacct/switch](https://www.yuque.com/lwmacct/switch)
@@ -57,7 +52,7 @@
 
 ---
 
-# 运行时环境
+## 运行时环境
 + `容器服务 (docker)` [https://www.yuque.com/lwmacct/docker](https://www.yuque.com/lwmacct/docker)
 + `虚拟机 (hyper-v)` [https://www.yuque.com/lwmacct/hyper-v](https://www.yuque.com/lwmacct/hyper-v)
 + `虚拟机 (vmware)` [https://www.yuque.com/lwmacct/vmware](https://www.yuque.com/lwmacct/vmware)
@@ -68,13 +63,13 @@
 
 ---
 
-# 应用工具
+## 应用工具
 + `加密工具 OpenSSL` [https://www.yuque.com/lwmacct/openssl](https://www.yuque.com/lwmacct/openssl)
 + `安全认证 OpenSSH` [https://www.yuque.com/lwmacct/openssh](https://www.yuque.com/lwmacct/openssh)
 
 ---
 
-# 开源服务
+## 开源服务
 + `Docker (docker-run)` [https://www.yuque.com/lwmacct/docker-run](https://www.yuque.com/lwmacct/docker-run)
 + `运维监控 (zabbix)` [https://www.yuque.com/lwmacct/zabbix](https://www.yuque.com/lwmacct/zabbix)
 + `运维监控 (prometheus)` [https://www.yuque.com/lwmacct/prometheus](https://www.yuque.com/lwmacct/prometheus)
@@ -85,7 +80,7 @@
 
 ---
 
-# 数据存储
+## 数据存储
 + 物理存储
     - `文件系统 (fs)` [https://www.yuque.com/lwmacct/fs](https://www.yuque.com/lwmacct/fs)
     - `文件系统 (zfs)` [https://www.yuque.com/lwmacct/zfs](https://www.yuque.com/lwmacct/zfs)
@@ -99,7 +94,7 @@
 
 ---
 
-# 编程开发
+## 编程开发
 + 开发语言
     - `TypeScript (ts)` [https://www.yuque.com/lwmacct/ts](https://www.yuque.com/lwmacct/ts)
     - `脚本语言 (lua)` [https://www.yuque.com/lwmacct/lua](https://www.yuque.com/lwmacct/lua)
@@ -117,7 +112,7 @@
 
 ---
 
-# 框架库类
+## 框架库类
 + Golang
     - `Golang 库 (gorm)` [https://www.yuque.com/lwmacct/gorm](https://www.yuque.com/lwmacct/gorm)
     - `Web 框架 (gin)` [https://www.yuque.com/lwmacct/gin](https://www.yuque.com/lwmacct/gin)
@@ -131,7 +126,7 @@
 
 ---
 
-# 信息检索
+## 信息检索
 + `**日志 (log)**`** **[**https://www.yuque.com/lwmacct/log**](https://www.yuque.com/lwmacct/log)
 + `**唯一标识 (id)**`** **[**https://www.yuque.com/lwmacct/id**](https://www.yuque.com/lwmacct/id)
 + `消息队列 (kafka)` [https://www.yuque.com/lwmacct/kafka](https://www.yuque.com/lwmacct/kafka)
@@ -139,7 +134,7 @@
 
 ---
 
-# 效率工具
+## 效率工具
 + `压力测试` [https://www.yuque.com/lwmacct/stress](https://www.yuque.com/lwmacct/stress)
 + `包管理(pkg)` [https://www.yuque.com/lwmacct/pkg](https://www.yuque.com/lwmacct/pkg)
 + `书签 (url)` [https://www.yuque.com/lwmacct/url](https://www.yuque.com/lwmacct/url)
@@ -149,7 +144,7 @@
 
 ---
 
-# 硬件相关
+## 硬件相关
 + `集成电路 (ic)` [https://www.yuque.com/lwmacct/ic](https://www.yuque.com/lwmacct/ic)
 + `远程管理 (ipmi)` [https://www.yuque.com/lwmacct/ipmi](https://www.yuque.com/lwmacct/ipmi)
 + `工业控制器 (plc)` [https://www.yuque.com/lwmacct/plc](https://www.yuque.com/lwmacct/plc)
@@ -157,7 +152,7 @@
 
 ---
 
-# 区块链
+## 区块链
 `钱包 (wallet)` [https://www.yuque.com/lwmacct/wallet](https://www.yuque.com/lwmacct/wallet)
 
 `奇亚 (chia)` [https://www.yuque.com/lwmacct/chia](https://www.yuque.com/lwmacct/chia)
@@ -166,7 +161,7 @@
 
 ---
 
-# 探索计划
+## 探索计划
 + `引导工具 (cobbler)` [https://www.yuque.com/lwmacct/cobbler](https://www.yuque.com/lwmacct/cobbler)
 + `<font style="color:#0e0e0e;">服务网格 (lstio)r</font>`<font style="color:#0e0e0e;"> </font>[https://www.yuque.com/lwmacct/lstio](https://www.yuque.com/lwmacct/lstio)
 
