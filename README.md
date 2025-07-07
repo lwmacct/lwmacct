@@ -1,5 +1,5 @@
 ## 社交主页
-- 微信: `lwm-wx`   QQ:  `1713829947`
+- `微信` `lwmacct`
 - `语雀文档` [https://yuque.com/lwmacct](https://yuque.com/lwmacct)
 - `GitHub` [https://github.com/lwmacct](https://github.com/lwmacct)
 
