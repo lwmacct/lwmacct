@@ -16,3 +16,29 @@
 - 如果没有大量的积累，大量的思考，是不会把事情做好的。
 - 这世界上有太多的能人，你以为的极限，也许只是别人的起点。
 - 生命不息, 学习不止, 记录增添一些的文档, 希望能帮助您解决问题
+
+###
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lwmacct&show_icons=true&theme=dracula"/>
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwmacct&layout=compact&hide_border=true&langs_count=10&theme=dracula" />
+</picture>
