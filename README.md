@@ -22,12 +22,12 @@
 ## GitHub Stats
 
 <picture>
-  <source srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&theme=dark" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
-  <source srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile" media="(prefers-color-scheme: light)" />
-  <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&theme=dracula"/>
-</picture>
-<picture>
   <source srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8&theme=dark" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
   <source srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8" media="(prefers-color-scheme: light)" />
   <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs/?username=lwmacct&layout=compact&hide_border=true&langs_count=10&theme=dracula" />
+</picture>
+<picture>
+  <source srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&theme=dark" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile" media="(prefers-color-scheme: light)" />
+  <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&theme=dracula"/>
 </picture>
