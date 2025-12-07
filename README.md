@@ -1,3 +1,10 @@
+<!-- 打字动画 -->
+<p align="center">
+  <a href="https://github.com/lwmacct">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+%E9%9D%A2%E5%A3%81+%F0%9F%91%8B;DevOps+%7C+AI+Agent+%7C+Golang;%E7%94%9F%E5%91%BD%E4%B8%8D%E6%81%AF%2C+%E5%AD%A6%E4%B9%A0%E4%B8%8D%E6%AD%A2" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 社交主页
 
 - `微信` `lwmacct`
@@ -19,11 +26,34 @@
 - 这世界上有太多的能人，你以为的极限，也许只是别人的起点。
 - 生命不息, 学习不止, 记录增添一些的文档, 希望能帮助您解决问题。
 
-###
+## GitHub Stats
 
-<a href="https://github.com/lwmacct">
-  <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs/?username=lwmacct&layout=compact&langs_count=8&theme=transparent" />
-</a>
-<a href="https://github.com/lwmacct">
-  <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=transparent"/>
-</a>
+<p align="center">
+  <a href="https://github.com/lwmacct">
+    <img height=200 src="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=transparent"/>
+  </a>
+  <a href="https://github.com/lwmacct">
+    <img height=200 src="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs/?username=lwmacct&layout=compact&langs_count=8&theme=transparent" />
+  </a>
+</p>
+
+<!-- 连续贡献 Streak -->
+<p align="center">
+  <a href="https://github.com/lwmacct">
+    <img src="https://streak-stats.demolab.com/?user=lwmacct&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- 成就奖杯 -->
+<p align="center">
+  <a href="https://github.com/lwmacct">
+    <img src="https://github-profile-trophy.vercel.app/?username=lwmacct&theme=flat&no-frame=true&no-bg=true&column=7" alt="Trophy" />
+  </a>
+</p>
+
+<!-- 贪吃蛇动画 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lwmacct/lwmacct/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lwmacct/lwmacct/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lwmacct/lwmacct/output/github-snake.svg" />
+</picture>
