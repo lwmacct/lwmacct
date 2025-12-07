@@ -43,30 +43,3 @@
   />
   <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs/?username=lwmacct&layout=compact&hide_border=true&langs_count=10&theme=dracula" />
 </picture>
-
-<!-- 连续贡献 Streak -->
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com/?user=lwmacct&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com/?user=lwmacct&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com/?user=lwmacct&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</picture>
-
-<!-- 成就奖杯 -->
-<picture>
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=lwmacct&theme=darkhub&no-frame=true&column=7"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=lwmacct&theme=flat&no-frame=true&column=7"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=lwmacct&theme=dracula&no-frame=true&column=7" alt="Trophy" />
-</picture>
-
