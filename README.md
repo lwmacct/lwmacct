@@ -23,24 +23,24 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&theme=dark"
+    srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile"
+    srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lwmacct&show_icons=true&theme=dracula"/>
+  <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&theme=dracula"/>
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8&theme=dark"
+    srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8"
+    srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwmacct&layout=compact&hide_border=true&langs_count=10&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs/?username=lwmacct&layout=compact&hide_border=true&langs_count=10&theme=dracula" />
 </picture>
