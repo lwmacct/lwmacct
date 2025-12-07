@@ -1,10 +1,3 @@
-<!-- 打字动画 -->
-<p align="center">
-  <a href="https://github.com/lwmacct">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+%E9%9D%A2%E5%A3%81+%F0%9F%91%8B;DevOps+%7C+AI+Agent+%7C+Golang;%E7%94%9F%E5%91%BD%E4%B8%8D%E6%81%AF%2C+%E5%AD%A6%E4%B9%A0%E4%B8%8D%E6%AD%A2" alt="Typing SVG" />
-  </a>
-</p>
-
 ## 社交主页
 
 - `微信` `lwmacct`
@@ -51,9 +44,3 @@
   </a>
 </p>
 
-<!-- 贪吃蛇动画 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lwmacct/lwmacct/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lwmacct/lwmacct/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lwmacct/lwmacct/output/github-snake.svg" />
-</picture>
