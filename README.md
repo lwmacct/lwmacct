@@ -21,26 +21,52 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/lwmacct">
-    <img height=200 src="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=transparent"/>
-  </a>
-  <a href="https://github.com/lwmacct">
-    <img height=200 src="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs/?username=lwmacct&layout=compact&langs_count=8&theme=transparent" />
-  </a>
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api?username=lwmacct&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula"/>
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs?username=lwmacct&layout=compact&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats-sable-alpha-33.vercel.app/api/top-langs/?username=lwmacct&layout=compact&hide_border=true&langs_count=10&theme=dracula" />
+</picture>
 
 <!-- 连续贡献 Streak -->
-<p align="center">
-  <a href="https://github.com/lwmacct">
-    <img src="https://streak-stats.demolab.com/?user=lwmacct&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=lwmacct&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=lwmacct&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=lwmacct&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 <!-- 成就奖杯 -->
-<p align="center">
-  <a href="https://github.com/lwmacct">
-    <img src="https://github-profile-trophy.vercel.app/?username=lwmacct&theme=flat&no-frame=true&no-bg=true&column=7" alt="Trophy" />
-  </a>
-</p>
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=lwmacct&theme=darkhub&no-frame=true&column=7"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=lwmacct&theme=flat&no-frame=true&column=7"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=lwmacct&theme=dracula&no-frame=true&column=7" alt="Trophy" />
+</picture>
 
